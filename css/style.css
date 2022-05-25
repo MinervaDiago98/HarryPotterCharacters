@@ -1,0 +1,84 @@
+.bg-header{
+    background-color: rgb(219, 201, 4) !important;
+}
+.bg-nav{
+    background-color: rgb(216, 216, 216) !important;
+}
+.hr-gray{
+    background-color: rgb(135, 135, 135) !important;
+}
+.sizeImg{
+    width: 255px;
+    height: 265px;
+}
+.modalSize{
+    width: 520px;
+    height: 400px;
+}
+.font-large{
+    font-size: large;
+}
+.house-name{
+    position: absolute;
+    left: -5px;
+    top: 63%;
+    padding: 3px 8px;
+    color: white;
+    border-radius: 5px;
+}
+.tags{
+    position: absolute;
+    left: 15px;
+    top: 93%;
+    width: 8%;
+    color: white;
+    border-radius: 5px;
+}
+.icon-wizard{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 23px;
+    top: 83%;
+    border-radius: 5px;
+}
+.icon-student{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 23px;
+    top: 89%;
+    border-radius: 5px;
+}
+.title{
+    position: absolute;
+    left: 1%;
+    top: 4%;
+    padding: 1px 5px;
+    color: white;
+}
+.logoHouse{
+    position: relative;
+    right: -75%;
+    top: 5%;
+    padding: 1px 5px;
+    color: white;
+}
+.medidas{
+    margin: 8px;
+    width: 220px;
+    height: 250px;
+}
+.slytherin{
+    background-color: rgb(29, 116, 93) !important;
+}
+.gryffindor{
+    background-color: rgb(176, 40, 40) !important;
+}
+.hufflepuff{
+    background-color: rgb(236, 233, 68) !important;
+    color: rgb(46, 46, 46);
+}
+.ravenclaw{
+    background-color: rgb(53, 124, 157) !important;
+}
